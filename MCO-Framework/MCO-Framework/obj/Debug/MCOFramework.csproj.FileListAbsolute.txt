@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\MCOFramework.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mad Games Tycoon 2\BepInEx\plugins\MCOFramework.pdb
+C:\Users\admin\Documents\C#_Tool\MNO-Framework\MNO-Framework\obj\Debug\MCOFramework.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C#_Tool\MNO-Framework\MNO-Framework\obj\Debug\MCOFramework.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#_Tool\MNO-Framework\MNO-Framework\obj\Debug\MCOFramework.csproj.CopyComplete
+C:\Users\admin\Documents\C#_Tool\MNO-Framework\MNO-Framework\obj\Debug\MCOFramework.dll
+C:\Users\admin\Documents\C#_Tool\MNO-Framework\MNO-Framework\obj\Debug\MCOFramework.pdb
+C:\Users\admin\Documents\C#_Tool\MCO-Framework\MCO-Framework\obj\Debug\MCOFramework.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C#_Tool\MCO-Framework\MCO-Framework\obj\Debug\MCOFramework.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#_Tool\MCO-Framework\MCO-Framework\obj\Debug\MCOFramework.dll
+C:\Users\admin\Documents\C#_Tool\MCO-Framework\MCO-Framework\obj\Debug\MCOFramework.pdb
